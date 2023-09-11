@@ -1,4 +1,4 @@
-# Auto-Switch-configuration
+# Auto-Switch-Cisco-configuration
 Auto-Switch-configuration with python script
 The written codes are for configuring the Cisco switches through the network and through the serial cable, and for ease of work, you need to put the configurations in a text file and add the path to the text file in the script.
 Note: You must install the required libraries.
